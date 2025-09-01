@@ -4,7 +4,7 @@ Proyek ini merupakan bagian dari program **Big Data Analytics Internship** yang 
 
 🔗 **Dashboard Interaktif:**  
 <img src="Kimia_Farma_analytics_page-0001.jpg" alt="Dashboard Kimia Farma"/>
-[Klik di sini untuk melihat dashboard Looker Studio](https://lookerstudio.google.com/reporting/7894445b-4bd2-4db3-a289-d153dd234083)
+[Click here to see the dashboard on Looker Studio](https://lookerstudio.google.com/reporting/7894445b-4bd2-4db3-a289-d153dd234083)
 
 ---
 
