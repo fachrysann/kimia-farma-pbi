@@ -3,6 +3,7 @@
 Proyek ini merupakan bagian dari program **Big Data Analytics Internship** yang berfokus pada evaluasi kinerja bisnis **Kimia Farma** periode 2020–2023. Analisis dilakukan dengan mengolah data transaksi, produk, cabang, dan inventori menggunakan **Google BigQuery**, kemudian divisualisasikan dalam **Google Looker Studio**.
 
 🔗 **Dashboard Interaktif:**  
+<img src="kimia-farma-pbi/Kimia_Farma_analytics_page-0001.jpg" alt="Dashboard Kimia Farma"/>
 [Klik di sini untuk melihat dashboard Looker Studio](https://lookerstudio.google.com/reporting/7894445b-4bd2-4db3-a289-d153dd234083)
 
 ---
